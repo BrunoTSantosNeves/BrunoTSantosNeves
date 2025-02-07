@@ -70,13 +70,14 @@ I work on various projects using Python, HTML, CSS, and React, always aiming to 
   <a href="mailto:brunotonetti259@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/brunotonetti/">
+  <a href="https://www.linkedin.com/in/bruno-tonetti-7413aa202/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://brunotdev.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
 </div>
+
 
 ---
 
