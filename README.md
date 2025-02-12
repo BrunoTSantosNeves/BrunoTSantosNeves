@@ -10,12 +10,13 @@ I'm Bruno from Indaiatuba, Brazil. I’m an IT technician and assistant with a s
 I'm always eager to tackle new challenges and expand my skill set. If you share a passion for technology and innovation, I’d love to connect and exchange insights on this journey!
 
 ---
-## 📊 Estatísticas/📊 Statistics
+## 📊 Estatísticas / 📊 Statistics
 
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=BrunoTSantosNeves&theme=monokai&background=000000&border=white&dates=" alt="GitHub Streak">
   </a>
+  <br>
   <a href="https://github.com/BrunoTSantosNeves">
     <img src="https://github-readme-stats.vercel.app/api?username=BrunoTSantosNeves&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   </a>
