@@ -43,13 +43,15 @@ I'm always eager to tackle new challenges and expand my skill set. If you share 
 
 ---
 
-## 💻 Sistemas Operacionais e Bancos de Dados / 💻 Operating Systems and Databases
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/WSL-000000?style=for-the-badge&logo=windows&logoColor=white" alt="WSL">
   <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
 </div>
+
+
 
 ---
 
